@@ -1,6 +1,6 @@
-Docker ElasticSearch with NLP
+Docker ElasticSearch
 =========
-for the [Answers Platform](https://github.com/18f/answers)
+
 
 Dependencies
 ---
@@ -25,7 +25,7 @@ To Get Started
 
 Roadmap
 ---
-- Add WordNet synonym library
+- Upgrade to latest ElasticSearch
 
 
 Contributing
